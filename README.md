@@ -62,7 +62,7 @@ Noah Wilson
 ----------------------------------------------------------------------------------------------------------------
 
 
-ALL THE CORRECTLY WORKING FUNCTIONS MUST RETURN THE FOLLOWING:
+ALL THE CORRECTLY WORKING FUNCTIONS MUST RETURN THE FOLLOWING:·1
 
 find_flight(...): Return normalized flight key or None
 
